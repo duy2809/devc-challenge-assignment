@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#wrap {
+  width: 400px;
+}
+
+#message {
+  margin-bottom: 10px;
+}
